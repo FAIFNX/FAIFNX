@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Pol Collantes
 
-<!--
-**FAIFNX/FAIFNX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un programador junior apasionado por el aprendizaje constante y el desarrollo de soluciones creativas. Me encanta explorar nuevas tecnologías y trabajar en proyectos desafiantes. 💻🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Acerca de mí
+
+- 🎓 Actualmente aprendiendo [Desarollo de aplicaciones multiplataformas]
+- 📫 ¿Cómo contactarme? [pol.c.pdg@gmail.com]
+
+---
+
+## ⚡ Habilidades
+
+- **Lenguajes:** [C++/C# || Python || Java || HTML/CSS || SQL/PL || Kotlin]
+- **Frameworks:** [Visual Code || NetBeans || Android Studio || Idea]
+- **Herramientas:** [Git || Docker]
+
+---
+
+## 💼 Proyectos Destacados
+
+### Proyecto 1: [Nombre del proyecto]
+
+- **Descripción:** Breve descripción de lo que hace el proyecto.
+- **Tecnologías utilizadas:** [Tecnologías principales del proyecto]
+- **Repositorio:** [Enlace al repositorio del proyecto](https://github.com/tuusuario/repositorio1)
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/pol-collantes-almendro-aa126a239/)
+- [Correo](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBnNfLTLNHslZTSbspMSMNWnHXqNrkhVlqtSGpStgglvhPFrfCHjqhbDGGjpHVnhfbscfsx)
+
+---
