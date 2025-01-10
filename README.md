@@ -58,7 +58,7 @@ Soy un programador junior apasionado por el aprendizaje constante y el desarroll
 
 - **IDEs**:
 
-    ![Visual Studio Code](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=Purple)
+    ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=Purple)
     ![NetBeans](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=Orange)
     ![Android Studio](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=Blue)
     ![Android Studio](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
