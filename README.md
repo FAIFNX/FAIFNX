@@ -12,6 +12,7 @@ Soy un programador junior apasionado por el aprendizaje constante y el desarroll
 ---
 
 ## 🌟 Acerca de mí
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🎓 Actualmente cursando [Desarollo de aplicaciones multiplataformas]
 - 📫 ¿Cómo contactarme? [pol.c.pdg@gmail.com]
