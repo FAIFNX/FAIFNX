@@ -59,8 +59,8 @@ Soy un programador junior apasionado por el aprendizaje constante y el desarroll
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=Blue)
     ![NetBeans](https://img.shields.io/badge/NetBeans-FFA500.svg?style=for-the-badge&logo=NetBeans&logoColor=Orange)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-0078d7.svg?style=for-the-badge&logo=AndroidStudio&logoColor=White)
-    ![Idea](https://img.shields.io/badgeIdea-0078d7.svg?style=for-the-badge&logo=Idea&logoColor=Purple)  
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio-FFFFFF.svg?style=for-the-badge&logo=AndroidStudio&logoColor=White)
+    ![Idea](https://img.shields.io/badgeIdea-572364.svg?style=for-the-badge&logo=Idea&logoColor=Purple)  
 
 
 </p>
