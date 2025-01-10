@@ -65,7 +65,7 @@ Soy un programador junior apasionado por el aprendizaje constante y el desarroll
 </p>
 
 ---
-
+<!
 ## 💼 Proyectos Destacados
 
 ### Proyecto 1: [Nombre del proyecto]
@@ -75,7 +75,7 @@ Soy un programador junior apasionado por el aprendizaje constante y el desarroll
 - **Repositorio:** [Enlace al repositorio del proyecto](https://github.com/tuusuario/repositorio1)
 
 ---
-
+!>
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/pol-collantes-almendro-aa126a239/)
